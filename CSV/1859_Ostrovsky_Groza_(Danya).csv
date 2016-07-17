@@ -1,0 +1,79 @@
+Source,Type,Target,Weight
+Барыня,"Undirected",Варвара,2
+Барыня,"Undirected",Кабанов,1
+Барыня,"Undirected",Кабанова,1
+Барыня,"Undirected",Катерина,2
+Борис,"Undirected",Варвара,4
+Борис,"Undirected",Глаша,1
+Борис,"Undirected",Дикой,1
+Борис,"Undirected",Женщина,1
+Борис,"Undirected",Кабанов,1
+Борис,"Undirected",Кабанова,1
+Борис,"Undirected",Катерина,3
+Борис,"Undirected",Кудряш,4
+Борис,"Undirected",Кулигин,3
+Борис,"Undirected",Первый,1
+Борис,"Undirected",Феклуша,1
+Борис,"Undirected",Шапкин,1
+Варвара,"Undirected",Второй,1
+Варвара,"Undirected",Глаша,1
+Варвара,"Undirected",Женщина,2
+Варвара,"Undirected",Кабанов,7
+Варвара,"Undirected",Кабанова,6
+Варвара,"Undirected",Катерина,14
+Варвара,"Undirected",Кудряш,3
+Варвара,"Undirected",Кулигин,2
+Варвара,"Undirected",Первый,2
+Второй,"Undirected",Женщина,2
+Второй,"Undirected",Кабанов,2
+Второй,"Undirected",Кабанова,2
+Второй,"Undirected",Катерина,1
+Второй,"Undirected",Один из возвратившихся,1
+Второй,"Undirected",Первый,3
+Глаша,"Undirected",Кабанов,2
+Глаша,"Undirected",Кабанова,1
+Глаша,"Undirected",Катерина,1
+Глаша,"Undirected",Кулигин,2
+Глаша,"Undirected",Феклуша,1
+Дикой,"Undirected",Кабанова,1
+Дикой,"Undirected",Кулигин,1
+Дикой,"Undirected",Первый,1
+Дикой,"Undirected",Феклуша,1
+Другой,"Undirected",Кабанов,1
+Другой,"Undirected",Кабанова,1
+Другой,"Undirected",Кулигин,1
+Другой,"Undirected",Один из народа,1
+Другой,"Undirected",Третий,1
+Женщина,"Undirected",Кабанов,2
+Женщина,"Undirected",Кабанова,2
+Женщина,"Undirected",Катерина,2
+Женщина,"Undirected",Кулигин,1
+Женщина,"Undirected",Первый,3
+Кабанов,"Undirected",Кабанова,9
+Кабанов,"Undirected",Катерина,8
+Кабанов,"Undirected",Кулигин,4
+Кабанов,"Undirected",Один из возвратившихся,1
+Кабанов,"Undirected",Один из народа,1
+Кабанов,"Undirected",Первый,3
+Кабанов,"Undirected",Третий,1
+Кабанова,"Undirected",Катерина,6
+Кабанова,"Undirected",Кулигин,3
+Кабанова,"Undirected",Один из возвратившихся,1
+Кабанова,"Undirected",Один из народа,1
+Кабанова,"Undirected",Первый,3
+Кабанова,"Undirected",Третий,1
+Кабанова,"Undirected",Феклуша,2
+Катерина,"Undirected",Кудряш,2
+Катерина,"Undirected",Кулигин,1
+Катерина,"Undirected",Первый,2
+Кудряш,"Undirected",Кулигин,2
+Кудряш,"Undirected",Феклуша,1
+Кудряш,"Undirected",Шапкин,2
+Кулигин,"Undirected",Один из народа,1
+Кулигин,"Undirected",Первый,2
+Кулигин,"Undirected",Третий,1
+Кулигин,"Undirected",Феклуша,1
+Кулигин,"Undirected",Шапкин,2
+Один из возвратившихся,"Undirected",Первый,1
+Один из народа,"Undirected",Третий,1
+Феклуша,"Undirected",Шапкин,1

@@ -1,0 +1,72 @@
+Source,Type,Target,Weight
+1-й кредитор,"Undirected",2-й кредитор,1
+1-й кредитор,"Undirected",3-й кредитор,1
+1-й кредитор,"Undirected",4-й кредитор,1
+1-й кредитор,"Undirected",Варравин,1
+1-й кредитор,"Undirected",Расплюев,1
+1-й кредитор,"Undirected",Тарелкин,1
+2-й кредитор,"Undirected",3-й кредитор,1
+2-й кредитор,"Undirected",4-й кредитор,1
+2-й кредитор,"Undirected",Варравин,1
+2-й кредитор,"Undirected",Расплюев,1
+2-й кредитор,"Undirected",Тарелкин,1
+3-й кредитор,"Undirected",4-й кредитор,1
+3-й кредитор,"Undirected",Варравин,1
+3-й кредитор,"Undirected",Расплюев,1
+3-й кредитор,"Undirected",Тарелкин,1
+4-й кредитор,"Undirected",Варравин,1
+4-й кредитор,"Undirected",Расплюев,1
+4-й кредитор,"Undirected",Тарелкин,1
+Ванечка,"Undirected",Качала,1
+Ванечка,"Undirected",Ох,2
+Ванечка,"Undirected",Попугайчиков,1
+Ванечка,"Undirected",Расплюев,2
+Ванечка,"Undirected",Чванкин,1
+Варравин,"Undirected",Ибисов,1
+Варравин,"Undirected",Качала,2
+Варравин,"Undirected",Мавруша,3
+Варравин,"Undirected",Омега,1
+Варравин,"Undirected",Ох,2
+Варравин,"Undirected",Расплюев,8
+Варравин,"Undirected",Тарелкин,7
+Варравин,"Undirected",Третий чиновник,1
+Варравин,"Undirected",Четвертый чиновник,1
+Варравин,"Undirected",Чибисов,1
+Ибисов,"Undirected",Мавруша,1
+Ибисов,"Undirected",Омега,1
+Ибисов,"Undirected",Третий чиновник,1
+Ибисов,"Undirected",Четвертый чиновник,1
+Ибисов,"Undirected",Чибисов,1
+Качала,"Undirected",Ох,3
+Качала,"Undirected",Пахомов,1
+Качала,"Undirected",Попугайчиков,1
+Качала,"Undirected",Расплюев,5
+Качала,"Undirected",Тарелкин,2
+Качала,"Undirected",Шатала,1
+Крестьян Крестьянович,"Undirected",Ох,1
+Людмила,"Undirected",Ох,1
+Людмила,"Undirected",Расплюев,2
+Людмила,"Undirected",Тарелкин,1
+Мавруша,"Undirected",Омега,1
+Мавруша,"Undirected",Расплюев,1
+Мавруша,"Undirected",Тарелкин,3
+Мавруша,"Undirected",Третий чиновник,1
+Мавруша,"Undirected",Четвертый чиновник,1
+Мавруша,"Undirected",Чибисов,1
+Омега,"Undirected",Третий чиновник,1
+Омега,"Undirected",Четвертый чиновник,1
+Омега,"Undirected",Чибисов,1
+Ох,"Undirected",Пахомов,1
+Ох,"Undirected",Попугайчиков,1
+Ох,"Undirected",Расплюев,11
+Ох,"Undirected",Чванкин,2
+Ох,"Undirected",Шатала,1
+Пахомов,"Undirected",Расплюев,1
+Пахомов,"Undirected",Шатала,1
+Попугайчиков,"Undirected",Расплюев,1
+Расплюев,"Undirected",Тарелкин,9
+Расплюев,"Undirected",Чванкин,2
+Расплюев,"Undirected",Шатала,1
+Третий чиновник,"Undirected",Четвертый чиновник,1
+Третий чиновник,"Undirected",Чибисов,1
+Четвертый чиновник,"Undirected",Чибисов,1

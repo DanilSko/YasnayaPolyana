@@ -1,0 +1,75 @@
+Source,Type,Target,Weight
+Аня,"Undirected",Варя,8
+Аня,"Undirected",Гаев,5
+Аня,"Undirected",Дуняша,1
+Аня,"Undirected",Епиходов,1
+Аня,"Undirected",Лопахин,6
+Аня,"Undirected",Любовь Андреевна,8
+Аня,"Undirected",Начальник станции,1
+Аня,"Undirected",Пищик,3
+Аня,"Undirected",Прохожий,1
+Аня,"Undirected",Трофимов,7
+Аня,"Undirected",Фирс,3
+Аня,"Undirected",Шарлотта,4
+Аня,"Undirected",Яша,6
+Варя,"Undirected",Гаев,5
+Варя,"Undirected",Дуняша,2
+Варя,"Undirected",Епиходов,2
+Варя,"Undirected",Лопахин,7
+Варя,"Undirected",Любовь Андреевна,6
+Варя,"Undirected",Начальник станции,1
+Варя,"Undirected",Пищик,3
+Варя,"Undirected",Прохожий,1
+Варя,"Undirected",Трофимов,6
+Варя,"Undirected",Фирс,3
+Варя,"Undirected",Шарлотта,3
+Варя,"Undirected",Яша,6
+Гаев,"Undirected",Епиходов,1
+Гаев,"Undirected",Лопахин,5
+Гаев,"Undirected",Любовь Андреевна,8
+Гаев,"Undirected",Пищик,3
+Гаев,"Undirected",Прохожий,1
+Гаев,"Undirected",Трофимов,3
+Гаев,"Undirected",Фирс,1
+Гаев,"Undirected",Шарлотта,3
+Гаев,"Undirected",Яша,3
+Дуняша,"Undirected",Епиходов,3
+Дуняша,"Undirected",Лопахин,2
+Дуняша,"Undirected",Фирс,2
+Дуняша,"Undirected",Шарлотта,1
+Дуняша,"Undirected",Яша,4
+Епиходов,"Undirected",Лопахин,2
+Епиходов,"Undirected",Любовь Андреевна,1
+Епиходов,"Undirected",Трофимов,1
+Епиходов,"Undirected",Фирс,1
+Епиходов,"Undirected",Шарлотта,1
+Епиходов,"Undirected",Яша,2
+Лопахин,"Undirected",Любовь Андреевна,5
+Лопахин,"Undirected",Пищик,2
+Лопахин,"Undirected",Прохожий,1
+Лопахин,"Undirected",Трофимов,4
+Лопахин,"Undirected",Фирс,2
+Лопахин,"Undirected",Шарлотта,2
+Лопахин,"Undirected",Яша,4
+Любовь Андреевна,"Undirected",Начальник станции,1
+Любовь Андреевна,"Undirected",Пищик,4
+Любовь Андреевна,"Undirected",Прохожий,1
+Любовь Андреевна,"Undirected",Трофимов,4
+Любовь Андреевна,"Undirected",Фирс,2
+Любовь Андреевна,"Undirected",Шарлотта,4
+Любовь Андреевна,"Undirected",Яша,5
+Начальник станции,"Undirected",Пищик,1
+Начальник станции,"Undirected",Трофимов,1
+Начальник станции,"Undirected",Шарлотта,1
+Начальник станции,"Undirected",Яша,1
+Пищик,"Undirected",Трофимов,1
+Пищик,"Undirected",Шарлотта,3
+Пищик,"Undirected",Яша,1
+Прохожий,"Undirected",Трофимов,1
+Прохожий,"Undirected",Фирс,1
+Прохожий,"Undirected",Яша,1
+Трофимов,"Undirected",Фирс,1
+Трофимов,"Undirected",Шарлотта,2
+Трофимов,"Undirected",Яша,4
+Фирс,"Undirected",Яша,4
+Шарлотта,"Undirected",Яша,3

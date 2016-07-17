@@ -1,0 +1,73 @@
+Source,Type,Target,Weight
+Атуева,"Undirected",Иван Сидоров,3
+Атуева,"Undirected",Лидочка,6
+Атуева,"Undirected",Муромский,5
+Атуева,"Undirected",Нелькин,5
+Атуева,"Undirected",Тарелкин,3
+Атуева,"Undirected",Тишка,1
+Важное лицо,"Undirected",Варравин,1
+Важное лицо,"Undirected",Живец,1
+Важное лицо,"Undirected",Князь,1
+Важное лицо,"Undirected",Муромский,1
+Важное лицо,"Undirected",Тарелкин,1
+Варравин,"Undirected",Герц,1
+Варравин,"Undirected",Живец,4
+Варравин,"Undirected",Ибисов,2
+Варравин,"Undirected",Князь,4
+Варравин,"Undirected",Муромский,4
+Варравин,"Undirected",Омега,1
+Варравин,"Undirected",Парамонов,3
+Варравин,"Undirected",Тарелкин,11
+Варравин,"Undirected",Чибисов,2
+Варравин,"Undirected",Шерц,2
+Варравин,"Undirected",Шило,1
+Варравин,"Undirected",Шмерц,2
+Герц,"Undirected",Ибисов,1
+Герц,"Undirected",Чибисов,1
+Герц,"Undirected",Шерц,1
+Герц,"Undirected",Шмерц,1
+Живец,"Undirected",Князь,1
+Живец,"Undirected",Муромский,3
+Живец,"Undirected",Парамонов,1
+Живец,"Undirected",Тарелкин,5
+Ибисов,"Undirected",Омега,1
+Ибисов,"Undirected",Парамонов,2
+Ибисов,"Undirected",Тарелкин,3
+Ибисов,"Undirected",Чибисов,5
+Ибисов,"Undirected",Шерц,3
+Ибисов,"Undirected",Шило,2
+Ибисов,"Undirected",Шмерц,3
+Иван Сидоров,"Undirected",Лидочка,4
+Иван Сидоров,"Undirected",Муромский,6
+Иван Сидоров,"Undirected",Нелькин,1
+Иван Сидоров,"Undirected",Тарелкин,3
+Князь,"Undirected",Муромский,2
+Князь,"Undirected",Парамонов,2
+Князь,"Undirected",Тарелкин,1
+Лидочка,"Undirected",Муромский,6
+Лидочка,"Undirected",Нелькин,5
+Лидочка,"Undirected",Тарелкин,2
+Лидочка,"Undirected",Тишка,1
+Муромский,"Undirected",Нелькин,3
+Муромский,"Undirected",Парамонов,2
+Муромский,"Undirected",Тарелкин,8
+Муромский,"Undirected",Тишка,1
+Нелькин,"Undirected",Тишка,1
+Омега,"Undirected",Тарелкин,1
+Омега,"Undirected",Чибисов,1
+Омега,"Undirected",Шерц,1
+Омега,"Undirected",Шило,1
+Омега,"Undirected",Шмерц,1
+Парамонов,"Undirected",Тарелкин,3
+Парамонов,"Undirected",Чибисов,2
+Тарелкин,"Undirected",Тишка,1
+Тарелкин,"Undirected",Чибисов,3
+Тарелкин,"Undirected",Шерц,2
+Тарелкин,"Undirected",Шило,2
+Тарелкин,"Undirected",Шмерц,2
+Чибисов,"Undirected",Шерц,3
+Чибисов,"Undirected",Шило,2
+Чибисов,"Undirected",Шмерц,3
+Шерц,"Undirected",Шило,2
+Шерц,"Undirected",Шмерц,3
+Шило,"Undirected",Шмерц,2

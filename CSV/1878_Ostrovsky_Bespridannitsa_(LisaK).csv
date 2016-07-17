@@ -1,0 +1,58 @@
+Source,Type,Target,Weight
+Вожеватов,"Undirected",Гаврило,4
+Вожеватов,"Undirected",Ефросинья Потаповна,1
+Вожеватов,"Undirected",Иван,5
+Вожеватов,"Undirected",Илья,2
+Вожеватов,"Undirected",Карандышев,6
+Вожеватов,"Undirected",Кнуров,13
+Вожеватов,"Undirected",Лариса,5
+Вожеватов,"Undirected",Огудалова,5
+Вожеватов,"Undirected",Паратов,14
+Вожеватов,"Undirected",Робинзон,12
+Гаврило,"Undirected",Иван,6
+Гаврило,"Undirected",Илья,1
+Гаврило,"Undirected",Карандышев,1
+Гаврило,"Undirected",Кнуров,4
+Гаврило,"Undirected",Лариса,2
+Гаврило,"Undirected",Огудалова,1
+Гаврило,"Undirected",Паратов,2
+Гаврило,"Undirected",Робинзон,2
+Голос с улицы,"Undirected",Илья,1
+Голос с улицы,"Undirected",Лариса,1
+Голос с улицы,"Undirected",Огудалова,1
+Ефросинья Потаповна,"Undirected",Иван,3
+Ефросинья Потаповна,"Undirected",Илья,1
+Ефросинья Потаповна,"Undirected",Карандышев,2
+Ефросинья Потаповна,"Undirected",Кнуров,1
+Ефросинья Потаповна,"Undirected",Лариса,2
+Ефросинья Потаповна,"Undirected",Огудалова,3
+Ефросинья Потаповна,"Undirected",Паратов,1
+Ефросинья Потаповна,"Undirected",Робинзон,1
+Иван,"Undirected",Илья,1
+Иван,"Undirected",Карандышев,4
+Иван,"Undirected",Кнуров,5
+Иван,"Undirected",Лариса,3
+Иван,"Undirected",Огудалова,3
+Иван,"Undirected",Паратов,3
+Иван,"Undirected",Робинзон,5
+Илья,"Undirected",Карандышев,1
+Илья,"Undirected",Кнуров,2
+Илья,"Undirected",Лариса,2
+Илья,"Undirected",Огудалова,2
+Илья,"Undirected",Паратов,2
+Илья,"Undirected",Робинзон,1
+Карандышев,"Undirected",Кнуров,4
+Карандышев,"Undirected",Лариса,7
+Карандышев,"Undirected",Огудалова,8
+Карандышев,"Undirected",Паратов,6
+Карандышев,"Undirected",Робинзон,7
+Кнуров,"Undirected",Лариса,5
+Кнуров,"Undirected",Огудалова,4
+Кнуров,"Undirected",Паратов,9
+Кнуров,"Undirected",Робинзон,8
+Лариса,"Undirected",Огудалова,11
+Лариса,"Undirected",Паратов,8
+Лариса,"Undirected",Робинзон,5
+Огудалова,"Undirected",Паратов,6
+Огудалова,"Undirected",Робинзон,4
+Паратов,"Undirected",Робинзон,12
