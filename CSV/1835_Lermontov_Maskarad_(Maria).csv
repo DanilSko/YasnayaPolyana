@@ -1,0 +1,42 @@
+Source,Type,Target,Weight
+Арбенин,Undirected,Баронесса,1
+Арбенин,Undirected,Гости,1
+Арбенин,Undirected,Доктор,1
+Арбенин,Undirected,Игроки,1
+Арбенин,Undirected,Казарин,5
+Арбенин,Undirected,Князь Звездич,5
+Арбенин,Undirected,Маски,2
+Арбенин,Undirected,Неизвестный,1
+Арбенин,Undirected,Нина,5
+Арбенин,Undirected,Слуга,4
+Арбенин,Undirected,Хозяин,2
+Арбенин,Undirected,Хозяйка,1
+Арбенин,Undirected,Шприх,3
+Баронесса,Undirected,Князь Звездич,4
+Баронесса,Undirected,Нина,3
+Баронесса,Undirected,Чиновник,1
+Баронесса,Undirected,Шприх,1
+Гости,Undirected,Доктор,1
+Гости,Undirected,Князь Звездич,1
+Гости,Undirected,Нина,3
+Гости,Undirected,Хозяйка,3
+Доктор,Undirected,Князь Звездич,1
+Доктор,Undirected,Неизвестный,1
+Игроки,Undirected,Казарин,3
+Игроки,Undirected,Князь Звездич,2
+Игроки,Undirected,Шприх,3
+Казарин,Undirected,Князь Звездич,3
+Казарин,Undirected,Слуга,1
+Казарин,Undirected,Хозяин,2
+Казарин,Undirected,Шприх,5
+Князь Звездич,Undirected,Маски,3
+Князь Звездич,Undirected,Неизвестный,3
+Князь Звездич,Undirected,Нина,3
+Князь Звездич,Undirected,Хозяин,1
+Князь Звездич,Undirected,Хозяйка,1
+Князь Звездич,Undirected,Чиновник,1
+Князь Звездич,Undirected,Шприх,2
+Нина,Undirected,Слуга,1
+Нина,Undirected,Служанка,1
+Нина,Undirected,Хозяйка,3
+Нина,Undirected,Чиновник,1
