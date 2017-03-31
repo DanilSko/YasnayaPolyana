@@ -220,7 +220,7 @@
         <castItem> Слуга трактирный . </castItem>
         <castItem> Гости и гостьи, купцы, мещане, просители. </castItem>
       </castList>
-      <div type="act">
+      <performance>
         <head> Характеры и костюмы </head>
         <sp who="#Gorodnichij">
           <speaker> Городничий </speaker>
@@ -296,7 +296,7 @@
             всех женщин разом, как будто из одной груди. От несоблюдения сих замечаний может
             исчезнуть весь эффект. </p>
         </sp>
-      </div>
+      </performance>
       <div type="act">
         <head> Действие первое </head>
         <div type="scene">
